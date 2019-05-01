@@ -1,0 +1,9 @@
+#main-wrapper{
+  background: transparent;
+}
+
+@media (max-width: 767px) {
+  .container-fluid {
+    padding: 0 0 !important;
+  }
+}
